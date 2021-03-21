@@ -1,0 +1,24 @@
+body {
+    font-family: 'Blinker', sans-serif;
+    font-size: large;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img {
+    border-radius: 15px;
+}
+
+.contact {
+    align-self: flex-end;
+}
+
+header {
+    display: flex;
+    justify-content:center;
+}
+
