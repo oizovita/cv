@@ -17,8 +17,12 @@ img {
     align-self: flex-end;
 }
 
-header {
+footer {
     display: flex;
     justify-content:center;
+}
+
+footer a:first-child {
+    margin-right: 20px;
 }
 
